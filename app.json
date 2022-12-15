@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "text-detector",
+    "slug": "text-detector",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/img/splash1.png"
+    }
+  }
+}
